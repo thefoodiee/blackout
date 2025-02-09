@@ -27,7 +27,7 @@ from [Bloom](https://github.com/nimsandu/spicetify-bloom/tree/main) by [nimsandu
 
 Use this guide to install if you're having trouble using the shell commands/installation scripts:
 
-1. Download this repo as [archive](https://codeload.github.com/nimsandu/spicetify-bloom/zip/refs/heads/main).
+1. Download this repo as [archive](https://github.com/thefoodiee/oledify/archive/refs/heads/main.zip).
 2. Navigate to the Spicetify's `Themes` directory. Use `spicetify path userdata` command to get the path.
 3. In the directory, create a new folder called `oledify`.
 4. Open the downloaded repo archive, and move all of the files from the `src` subfolder to the `oledify` folder you created.

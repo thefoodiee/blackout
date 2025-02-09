@@ -30,8 +30,6 @@ Use this guide to install if you're having trouble using the shell commands/inst
 
 ## Uninstallation
 
-### Manual Uninstallation
-
 ```shell
 spicetify config color_scheme ' ' current_theme ' '
 spicetify apply

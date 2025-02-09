@@ -5,7 +5,18 @@ A true black AMOLED/OLED theme for spicetify.
 
 ## Looks
 
-(image link)
+##### Home
+![home](https://github.com/thefoodiee/oledify/blob/main/images/home.png?raw=true)
+
+##### Album Page
+![album](https://github.com/thefoodiee/oledify/blob/main/images/album_page.png?raw=true)
+
+##### Artist Page
+![artist](https://github.com/thefoodiee/oledify/blob/main/images/artist_page.png?raw=true)
+
+##### Lyrics Page
+from [Bloom](https://github.com/nimsandu/spicetify-bloom/tree/main) by [nimsandu](https://github.com/nimsandu)  
+![lyrics](https://github.com/thefoodiee/oledify/blob/main/images/lyrics_page.png?raw=true)
 
 ## Dependencies
 
@@ -30,6 +41,8 @@ Use this guide to install if you're having trouble using the shell commands/inst
 
 ## Uninstallation
 
+### Manual Uninstallation
+
 ```shell
 spicetify config color_scheme ' ' current_theme ' '
 spicetify apply
@@ -38,3 +51,18 @@ spicetify apply
 ## Credits
 
 - Based on [Bloom](https://github.com/nimsandu/spicetify-bloom/tree/main) by [nimsandu](https://github.com/nimsandu)  
+
+## Other Extensions/Snippets Used
+
+- [Smooth Scrolling](https://github.com/iHelops/smooth-scrolling) by [iHelops](https://github.com/iHelops)
+
+- [Old Like Button](https://github.com/Maskowh/spicetify-old-like-button-extension) by [Maskowh](https://github.com/Maskowh)
+
+- [NPV Ambience](https://github.com/ohitstom/spicetify-extensions/tree/main/npvAmbience) by [ohitstom](https://github.com/ohitstom)
+
+- [Quick Queue](https://github.com/ohitstom/spicetify-extensions/tree/main/quickQueue) by [ohitstom](https://github.com/ohitstom)
+
+- [betterLibrary](https://github.com/Sowgro/betterLibrary) by [Sowgro](https://github.com/Sowgro)
+
+- Hide play count from [Spicetify Marketplace](https://github.com/spicetify/marketplace)
+- New Hover Panel from [Spicetify Marketplace](https://github.com/spicetify/marketplace)

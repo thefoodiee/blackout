@@ -24,8 +24,6 @@ A True Black AMOLED/OLED theme for spicetify.
 
 ### Manual Installation
 
-Use this guide to install if you're having trouble using the shell commands/installation scripts:
-
 1. Download this repo as [archive](https://github.com/thefoodiee/oledify/archive/refs/heads/main.zip).
 2. Navigate to the Spicetify's `Themes` directory. Use `spicetify path userdata` command to get the path.
 3. In the directory, create a new folder called `blackout`.

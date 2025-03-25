@@ -1,7 +1,7 @@
 
 # Blackout
 
-A true black AMOLED/OLED theme for spicetify.
+A True Black AMOLED/OLED theme for spicetify.
 
 ## Looks
 
@@ -29,7 +29,7 @@ Use this guide to install if you're having trouble using the shell commands/inst
 1. Download this repo as [archive](https://github.com/thefoodiee/oledify/archive/refs/heads/main.zip).
 2. Navigate to the Spicetify's `Themes` directory. Use `spicetify path userdata` command to get the path.
 3. In the directory, create a new folder called `blackout`.
-4. Open the downloaded repo archive, and move all of the files from the `src` subfolder to the `blackout` folder you created.
+4. Open the downloaded repo archive, and move all of the files from the main folder to the `blackout` folder you created.
 5. Open a terminal/command prompt window and type the following commands:
 
    ```shell
@@ -46,18 +46,3 @@ Use this guide to install if you're having trouble using the shell commands/inst
 spicetify config color_scheme ' ' current_theme ' '
 spicetify apply
 ```
-
-## Other Extensions/Snippets Used
-
-- [Smooth Scrolling](https://github.com/iHelops/smooth-scrolling) by [iHelops](https://github.com/iHelops)
-
-- [Old Like Button](https://github.com/Maskowh/spicetify-old-like-button-extension) by [Maskowh](https://github.com/Maskowh)
-
-- [NPV Ambience](https://github.com/ohitstom/spicetify-extensions/tree/main/npvAmbience) by [ohitstom](https://github.com/ohitstom)
-
-- [Quick Queue](https://github.com/ohitstom/spicetify-extensions/tree/main/quickQueue) by [ohitstom](https://github.com/ohitstom)
-
-- [betterLibrary](https://github.com/Sowgro/betterLibrary) by [Sowgro](https://github.com/Sowgro)
-
-- Hide play count from [Spicetify Marketplace](https://github.com/spicetify/marketplace)
-- New Hover Panel from [Spicetify Marketplace](https://github.com/spicetify/marketplace)

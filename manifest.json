@@ -1,0 +1,9 @@
+{
+    "name": "Blackout",
+    "description": "A True Black AMOLED theme.",
+    "preview": "/images/home.png",
+    "readme": "README.md",
+    "usercss": "user.css",
+    "schemes": "color.ini",
+    "tags": ["black", "dark", "oled"]
+}

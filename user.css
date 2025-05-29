@@ -2,15 +2,6 @@
   --scroll: 0 !important;
 }
   
-  .main-rootlist-rootlistDividerGradient {
-    background: unset;
-  }
-  
-  .x-searchInput-searchInputSearchIcon,
-  .x-searchInput-searchInputClearButton {
-    color: var(--spice-text) !important;
-  }
-  
   .main-home-homeHeader,
   .x-entityHeader-overlay,
   .x-actionBarBackground-background,
@@ -25,9 +16,6 @@
     color: white;
   }
   
-  .connect-device-list {
-    margin: 0px -5px;
-  }
   
   /* Remove Topbar background colour */
   .main-topBar-background {
@@ -48,7 +36,7 @@
   }
   
   span.artist-artistVerifiedBadge-badge svg:nth-child(1) {
-    fill: black;
+    fill: white;
   }
   
   
@@ -106,7 +94,7 @@
   
   /* left menu active item background */
   .main-navBar-navBarLinkActive {
-    color: white;
+    color: rgb(71, 71, 71);
   }
   
   /* profile icon */
@@ -173,53 +161,7 @@
   animation: reveal 800ms ease forwards;
 }
 
-@keyframes reveal {
-  from {
-    opacity: 0;
-  }
 
-  to {
-    opacity: 1;
-    visibility: visible;
-  }
-}
-
-.lyrics-lyricsContent-lyric:hover {
-  color: var(--lyrics-color-active) !important;
-}
-
-.lyrics-lyricsContent-active {
-  text-shadow: 0 0 15px rgba(255, 255, 255, 0.6);
-  max-width: var(--lyrics-active-max-width);
-}
-
-@media (min-width: 1920px) {
-  .lyrics-lyricsContent-lyric {
-    transition: text-shadow 400ms ease, color 50ms ease;
-  }
-
-  .lyrics-lyricsContent-text {
-    transform: scale(1);
-    transition: transform 400ms ease;
-  }
-
-  .lyrics-lyricsContent-active .lyrics-lyricsContent-text {
-    transform: scale(1.1);
-  }
-
-  .lyrics-lyricsContent-isInteractive .lyrics-lyricsContent-text:active {
-    transform: scale(0.9);
-  }
-}
-
-.main-nowPlayingView-section .lyrics-lyricsContent-lyric {
-  opacity: 1;
-  visibility: visible;
-}
-
-.main-nowPlayingView-section .lyrics-lyricsContent-text {
-  transform: unset;
-}
 
 /* New Lyrics Plus style */
 
@@ -228,10 +170,6 @@
 }
 
 /* lyrics pages fix */
-
-.main-lyricsCinema-nonDisplayedArea .main-topBar-topbarContent {
-  display: none;
-}
 
 .lyrics-lyrics-container {
   margin-top: 0;
@@ -423,4 +361,19 @@ body:has(#lyrics-fullscreen-container) > #main > .Root {
 .a7Ka5yznvrbSDPk1G36o, .JVoVebPNAPKBLKSlIBXw{
   --cinema-mode-bg-color-from: black !important;
   --cinema-mode-bg-color-to: black !important;
+}
+
+/* button hover color fix */
+
+.encore-dark-theme, .encore-bright-accent-set{
+  --background-highlight: grey !important;
+}
+
+/* equalizer bg color fix */
+.x-settings-equalizerSection {
+  background-color: black !important;
+}
+
+.main-yourLibraryX-listItem {
+  --background-highlight: rgba(121, 121, 121, 0.452);
 }

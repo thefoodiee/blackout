@@ -74,12 +74,6 @@
   --cinema-mode-bg-color-to: black !important;
 }
 
-/* button hover color fix */
-
-/* .encore-dark-theme, .encore-bright-accent-set{
-  --background-highlight: grey !important;
-} */
-
 /* equalizer bg color fix */
 .x-settings-equalizerSection {
   background-color: black !important;
@@ -87,4 +81,25 @@
 
 .main-yourLibraryX-listItem {
   --background-highlight: rgba(121, 121, 121, 0.452);
+}
+
+/* lyrics page color fix */
+.main-entityHeader-overlay{
+  background: black !important;
+}
+
+.main-actionBarBackground-background, .main-home-homeHeader{
+  background-image: linear-gradient(black, black) !important;
+}
+
+/* dark buttons */
+.encore-dark-theme, .encore-bright-accent-set, .encore-light-theme{
+  --background-highlight: #616161 !important;
+  --background-press: #2c2d2c !important;
+}
+
+/* dark now playing icon */
+
+.main-trackList-playingIcon{
+  filter: grayscale(1);
 }

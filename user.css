@@ -24,10 +24,15 @@
 }
 
 /* black gradient */
-.XVz4BMGP5zAEE5p90mYK{
+.XVz4BMGP5zAEE5p90mYK, .main-entityHeader-backgroundColor{
   --background-base: black !important;
   --background-base-min-contrast: black !important;
   
+}
+
+.playlist-playlist-actionBarBackground-background {
+  --color-from: transparent !important;
+  --color-to: transparent !important;
 }
 
 .Bdcf5g__Rug3TGqSdbiy{
@@ -44,6 +49,10 @@
   height: 100vh;
   clip-path: inset(0 0 0vh 0);
   --background-base: transparent !important;
+}
+
+.main-entityHeader-background {
+  height: 91vh !important;
 }
 
 .dhq75ObRGjfBoBlz6clW{
@@ -85,7 +94,7 @@
 
 /* lyrics page color fix */
 .main-entityHeader-overlay{
-  background: black !important;
+  background: transparent !important;
 }
 
 .main-actionBarBackground-background, .main-home-homeHeader{

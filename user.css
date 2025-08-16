@@ -76,6 +76,10 @@
   height:100vh
 }
 
+.main-entityHeader-overlay:after {
+  height: 91vh;
+}
+
 /* cinema mode black lyrics background */
 
 .a7Ka5yznvrbSDPk1G36o, .JVoVebPNAPKBLKSlIBXw{

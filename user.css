@@ -10,6 +10,11 @@
   background-color: black !important;
 }
 
+/* lyrics plus fix */
+.lyrics-lyricsContainer-LyricsContainer, .blur-enabled {
+  --lyrics-color-background: rgb(0 0 0) !important;
+}
+
 /* additional black backgrounds */
 
 .main-entityHeader-backgroundColor, .main-actionBarBackground-background, .main-topBar-background,

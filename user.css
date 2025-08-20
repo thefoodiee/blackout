@@ -101,6 +101,10 @@
   --background-highlight: rgba(121, 121, 121, 0.452);
 }
 
+.view-homeShortcutsGrid-equaliser {
+  filter: grayscale(1) !important;
+}
+
 /* lyrics page color fix */
 .main-entityHeader-overlay{
   background: transparent !important;

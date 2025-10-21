@@ -56,15 +56,23 @@
   --background-base: transparent !important;
 }
 
-.main-entityHeader-background {
+.main-entityHeader-background,
+.XR9tiExSLOuxgWTKxzse, .hZOTxnfvrXvtxfUWC4Sp,
+.ZLQMyiECjwh0Fat0ymny {
   height: 91vh !important;
+}
+
+.ZLQMyiECjwh0Fat0ymny::after {
+  height: 91vh !important;
+  background-image: linear-gradient(black, black);
 }
 
 .dhq75ObRGjfBoBlz6clW{
   --background-base: transparent !important;
 }
 
-.main-entityHeader-container.main-entityHeader-withBackgroundImage {
+.main-entityHeader-container.main-entityHeader-withBackgroundImage, 
+.main-entityHeader-container.DFuKwT5bvhKZoYr2gfZe {
   height: 91vh;
 }
 
@@ -122,6 +130,6 @@
 
 /* dark now playing icon */
 
-.main-trackList-playingIcon{
+.main-trackList-playingIcon, .X_HqPouENflGygaUXNus{
   filter: grayscale(1);
 }

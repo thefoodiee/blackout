@@ -58,12 +58,12 @@
 
 .main-entityHeader-background,
 .XR9tiExSLOuxgWTKxzse, .hZOTxnfvrXvtxfUWC4Sp,
-.ZLQMyiECjwh0Fat0ymny {
-  height: 91vh !important;
+.ZLQMyiECjwh0Fat0ymny, .jiWxWueoicolJZnS, .jX9OuHoZE8EC2SYi {
+  height: 92vh !important;
 }
 
-.ZLQMyiECjwh0Fat0ymny::after {
-  height: 91vh !important;
+.ZLQMyiECjwh0Fat0ymny::after, .bHqdRdxo4vtOizQq::after {
+  height: 92vh !important;
   background-image: linear-gradient(black, black);
 }
 
@@ -73,7 +73,7 @@
 
 .main-entityHeader-container.main-entityHeader-withBackgroundImage, 
 .main-entityHeader-container.DFuKwT5bvhKZoYr2gfZe {
-  height: 91vh;
+  height: 92vh;
 }
 
 .dhq75ObRGjfBoBlz6clW:after{
@@ -90,7 +90,7 @@
 }
 
 .main-entityHeader-overlay:after {
-  height: 91vh;
+  height: 92vh;
 }
 
 /* cinema mode black lyrics background */
@@ -130,6 +130,6 @@
 
 /* dark now playing icon */
 
-.main-trackList-playingIcon, .X_HqPouENflGygaUXNus{
+.main-trackList-playingIcon, .X_HqPouENflGygaUXNus, .POVCTaiu08g8SWXr{
   filter: grayscale(1);
 }

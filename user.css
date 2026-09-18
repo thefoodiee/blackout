@@ -1,6 +1,6 @@
 /* homescreen top gradient remove */
 
-.main-home-homeHeader{
+.main-home-homeHeader, .dqwQhIudKoD98eWJzj5E{
   background-color: black !important;
 }
 
@@ -18,7 +18,7 @@
 /* additional black backgrounds */
 
 .main-entityHeader-backgroundColor, .main-actionBarBackground-background, .main-topBar-background,
-.mjZrvVI3CxfHJXu7y0Lg, .fIvMht6B9HdROywMNJZ4, .main-home-filterChipsSection{
+.mjZrvVI3CxfHJXu7y0Lg, .fIvMht6B9HdROywMNJZ4, .main-home-filterChipsSection, .kMUtWcOMOZmCWTMAc_gu, .M7ECcaA17LC8UqL2GKVD{
   background-color: black !important;
 }
 
@@ -56,13 +56,17 @@
   --background-base: transparent !important;
 }
 
+.dyVzilsz8HZfD1EOJ_0N {
+  min-height: 92vh;
+}
+
 .main-entityHeader-background,
 .XR9tiExSLOuxgWTKxzse, .hZOTxnfvrXvtxfUWC4Sp,
-.ZLQMyiECjwh0Fat0ymny, .jiWxWueoicolJZnS, .jX9OuHoZE8EC2SYi {
+.ZLQMyiECjwh0Fat0ymny, .jiWxWueoicolJZnS, .jX9OuHoZE8EC2SYi, .ztSUcMGPa7QRTsdOA4SQ {
   height: 92vh !important;
 }
 
-.ZLQMyiECjwh0Fat0ymny::after, .bHqdRdxo4vtOizQq::after {
+.ZLQMyiECjwh0Fat0ymny::after, .bHqdRdxo4vtOizQq::after, .ykHt2dbXUBFWx1wiYPbR:after {
   height: 92vh !important;
   background-image: linear-gradient(black, black);
 }

@@ -1,6 +1,6 @@
 /* homescreen top gradient remove */
 
-.main-home-homeHeader, .dqwQhIudKoD98eWJzj5E{
+.main-home-homeHeader, .dqwQhIudKoD98eWJzj5E, ._ddPhxHdxmpT13IbjTmr{
   background-color: black !important;
 }
 
@@ -29,10 +29,14 @@
 }
 
 /* black gradient */
-.XVz4BMGP5zAEE5p90mYK, .main-entityHeader-backgroundColor{
+.XVz4BMGP5zAEE5p90mYK, .main-entityHeader-backgroundColor, .V7ICuEr1ZBtemPGKXeZb, .TmjKsp7ZdmzlG9vtR_94, .xWAGb7rkhYb1eQ8LiDaB{
   --background-base: black !important;
   --background-base-min-contrast: black !important;
   
+}
+
+.Ac2raqVCOQ_HYbbCkBAP {
+  --background-base: transparent !important;
 }
 
 .playlist-playlist-actionBarBackground-background {
@@ -40,7 +44,7 @@
   --color-to: transparent !important;
 }
 
-.Bdcf5g__Rug3TGqSdbiy{
+.Bdcf5g__Rug3TGqSdbiy, .oCSWtOAH_CgjIsi_H_PS{
     --background-base-70: black !important;
 }
 
@@ -56,14 +60,15 @@
   --background-base: transparent !important;
 }
 
-.dyVzilsz8HZfD1EOJ_0N {
+.dyVzilsz8HZfD1EOJ_0N, .Zsz_4IzlyaFvu7jBCd06,  {
   min-height: 92vh;
 }
 
 .main-entityHeader-background,
 .XR9tiExSLOuxgWTKxzse, .hZOTxnfvrXvtxfUWC4Sp,
-.ZLQMyiECjwh0Fat0ymny, .jiWxWueoicolJZnS, .jX9OuHoZE8EC2SYi, .ztSUcMGPa7QRTsdOA4SQ {
-  height: 92vh !important;
+.ZLQMyiECjwh0Fat0ymny, .jiWxWueoicolJZnS, .jX9OuHoZE8EC2SYi, .ztSUcMGPa7QRTsdOA4SQ, .Xx4EJR6ZWcW7jro0XDK2.aloZYcXwkXFUwa8s5xyD, 
+.TmjKsp7ZdmzlG9vtR_94, .KRY4R8FmW8wnixfM2icq, .Zsz_4IzlyaFvu7jBCd06 {
+  height: 91vh !important;
 }
 
 .ZLQMyiECjwh0Fat0ymny::after, .bHqdRdxo4vtOizQq::after, .ykHt2dbXUBFWx1wiYPbR:after {
@@ -136,6 +141,10 @@
 
 /* dark now playing icon */
 
-.main-trackList-playingIcon, .X_HqPouENflGygaUXNus, .POVCTaiu08g8SWXr{
+.main-trackList-playingIcon, .X_HqPouENflGygaUXNus, .POVCTaiu08g8SWXr, .T0rMpAnelW_8YG9TEYXX{
   filter: grayscale(1);
+}
+
+.QqprhKqwqIsC3c9SIKOE, .sxMpFt17cJVTesE9u6fX, .AJjP1RzhySWiLWVcLlNA {
+  background-color: black !important;
 }

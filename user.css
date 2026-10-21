@@ -18,7 +18,8 @@
 /* additional black backgrounds */
 
 .main-entityHeader-backgroundColor, .main-actionBarBackground-background, .main-topBar-background,
-.mjZrvVI3CxfHJXu7y0Lg, .fIvMht6B9HdROywMNJZ4, .main-home-filterChipsSection, .kMUtWcOMOZmCWTMAc_gu, .M7ECcaA17LC8UqL2GKVD{
+.mjZrvVI3CxfHJXu7y0Lg, .fIvMht6B9HdROywMNJZ4, .main-home-filterChipsSection, .kMUtWcOMOZmCWTMAc_gu, .M7ECcaA17LC8UqL2GKVD, .kMaYBahSBLOnErF7DLR2, 
+.P1kwly6O5plr1VQVdOLV{
   background-color: black !important;
 }
 
@@ -29,7 +30,8 @@
 }
 
 /* black gradient */
-.XVz4BMGP5zAEE5p90mYK, .main-entityHeader-backgroundColor, .V7ICuEr1ZBtemPGKXeZb, .TmjKsp7ZdmzlG9vtR_94, .xWAGb7rkhYb1eQ8LiDaB{
+.XVz4BMGP5zAEE5p90mYK, .main-entityHeader-backgroundColor, .V7ICuEr1ZBtemPGKXeZb, .TmjKsp7ZdmzlG9vtR_94, .xWAGb7rkhYb1eQ8LiDaB, 
+.hbNOZbHD3bPL3OcHQWNn, .GfTKUTxvt__lBLQKmG9m, .venMPE3QitySGonlITLf {
   --background-base: black !important;
   --background-base-min-contrast: black !important;
   
@@ -44,7 +46,7 @@
   --color-to: transparent !important;
 }
 
-.Bdcf5g__Rug3TGqSdbiy, .oCSWtOAH_CgjIsi_H_PS{
+.Bdcf5g__Rug3TGqSdbiy, .oCSWtOAH_CgjIsi_H_PS, .r8bczAWCEgb9_L0iyIcc{
     --background-base-70: black !important;
 }
 
@@ -60,14 +62,14 @@
   --background-base: transparent !important;
 }
 
-.dyVzilsz8HZfD1EOJ_0N, .Zsz_4IzlyaFvu7jBCd06,  {
+.dyVzilsz8HZfD1EOJ_0N, .Zsz_4IzlyaFvu7jBCd06 {
   min-height: 92vh;
 }
 
 .main-entityHeader-background,
 .XR9tiExSLOuxgWTKxzse, .hZOTxnfvrXvtxfUWC4Sp,
 .ZLQMyiECjwh0Fat0ymny, .jiWxWueoicolJZnS, .jX9OuHoZE8EC2SYi, .ztSUcMGPa7QRTsdOA4SQ, .Xx4EJR6ZWcW7jro0XDK2.aloZYcXwkXFUwa8s5xyD, 
-.TmjKsp7ZdmzlG9vtR_94, .KRY4R8FmW8wnixfM2icq, .Zsz_4IzlyaFvu7jBCd06 {
+.TmjKsp7ZdmzlG9vtR_94, .KRY4R8FmW8wnixfM2icq, .Zsz_4IzlyaFvu7jBCd06, .MlWLm9_5qALi6Ay0_OCr {
   height: 91vh !important;
 }
 
@@ -104,7 +106,7 @@
 
 /* cinema mode black lyrics background */
 
-.a7Ka5yznvrbSDPk1G36o, .JVoVebPNAPKBLKSlIBXw{
+.a7Ka5yznvrbSDPk1G36o, .JVoVebPNAPKBLKSlIBXw, .SJ6kQcks6OWaQD8WvlrE, .KQ5SDwOFi3U9EYsWMAag, .hR7iFCa1KGcBbpfaa8W8{
   --cinema-mode-bg-color-from: black !important;
   --cinema-mode-bg-color-to: black !important;
 }
@@ -119,7 +121,7 @@
 }
 
 .view-homeShortcutsGrid-equaliser,
-.H70qcBekoGWOlskuON5R
+.H70qcBekoGWOlskuON5R, .fF97jAvlGYYHbI3_vPlV
  {
   filter: grayscale(1) !important;
 }
@@ -127,6 +129,10 @@
 /* lyrics page color fix */
 .main-entityHeader-overlay{
   background: transparent !important;
+}
+
+.Ii0P5lvVrAzHgsutQTVz{
+  background-color: black !important;
 }
 
 .main-actionBarBackground-background, .main-home-homeHeader{
@@ -145,6 +151,10 @@
   filter: grayscale(1);
 }
 
-.QqprhKqwqIsC3c9SIKOE, .sxMpFt17cJVTesE9u6fX, .AJjP1RzhySWiLWVcLlNA {
+.QqprhKqwqIsC3c9SIKOE, .sxMpFt17cJVTesE9u6fX, .AJjP1RzhySWiLWVcLlNA, .uP1rcUSIWCFaOZaoH0ZG, .IfBZ5VdI_2nwDMl4H6Yh {
   background-color: black !important;
+}
+
+.yUjdM2oRRn7kw8tR1rqV, .NknVk8hYvXI6ovbE8Zj0, .YWvtYcp4OVsd4WMPoZOq, .W7gM5Z3fQWOuQAPOitbc{
+  --lyrics-color-background: black !important;
 }

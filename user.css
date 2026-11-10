@@ -19,7 +19,7 @@
 
 .main-entityHeader-backgroundColor, .main-actionBarBackground-background, .main-topBar-background,
 .mjZrvVI3CxfHJXu7y0Lg, .fIvMht6B9HdROywMNJZ4, .main-home-filterChipsSection, .kMUtWcOMOZmCWTMAc_gu, .M7ECcaA17LC8UqL2GKVD, .kMaYBahSBLOnErF7DLR2, 
-.P1kwly6O5plr1VQVdOLV{
+.P1kwly6O5plr1VQVdOLV, .lxP4FqXzwO7VDFnfmeWX{
   background-color: black !important;
 }
 
@@ -69,7 +69,7 @@
 .main-entityHeader-background,
 .XR9tiExSLOuxgWTKxzse, .hZOTxnfvrXvtxfUWC4Sp,
 .ZLQMyiECjwh0Fat0ymny, .jiWxWueoicolJZnS, .jX9OuHoZE8EC2SYi, .ztSUcMGPa7QRTsdOA4SQ, .Xx4EJR6ZWcW7jro0XDK2.aloZYcXwkXFUwa8s5xyD, 
-.TmjKsp7ZdmzlG9vtR_94, .KRY4R8FmW8wnixfM2icq, .Zsz_4IzlyaFvu7jBCd06, .MlWLm9_5qALi6Ay0_OCr {
+.TmjKsp7ZdmzlG9vtR_94, .KRY4R8FmW8wnixfM2icq, .Zsz_4IzlyaFvu7jBCd06, .MlWLm9_5qALi6Ay0_OCr, .rzJHb_Q4kE2_d81P1hHQ {
   height: 91vh !important;
 }
 
@@ -106,7 +106,8 @@
 
 /* cinema mode black lyrics background */
 
-.a7Ka5yznvrbSDPk1G36o, .JVoVebPNAPKBLKSlIBXw, .SJ6kQcks6OWaQD8WvlrE, .KQ5SDwOFi3U9EYsWMAag, .hR7iFCa1KGcBbpfaa8W8{
+.a7Ka5yznvrbSDPk1G36o, .JVoVebPNAPKBLKSlIBXw, .SJ6kQcks6OWaQD8WvlrE, .KQ5SDwOFi3U9EYsWMAag, .hR7iFCa1KGcBbpfaa8W8,
+.WCfsW4a6JVlKYVF34a1A, .H_ZK0udAJjRBHRCERDpw, .Wv3c8nYoOC18zb2yVp2b{
   --cinema-mode-bg-color-from: black !important;
   --cinema-mode-bg-color-to: black !important;
 }
@@ -155,6 +156,9 @@
   background-color: black !important;
 }
 
-.yUjdM2oRRn7kw8tR1rqV, .NknVk8hYvXI6ovbE8Zj0, .YWvtYcp4OVsd4WMPoZOq, .W7gM5Z3fQWOuQAPOitbc{
+.yUjdM2oRRn7kw8tR1rqV, .NknVk8hYvXI6ovbE8Zj0, .YWvtYcp4OVsd4WMPoZOq, .W7gM5Z3fQWOuQAPOitbc, 
+.bqldaBkacR41KxR2Z0jY, .c2d2xLHGB3XjJBWDrlho, 
+.main-nowPlayingView-section, .zboE1ICtt8SJrJQEVHTf, .oCWFPidreAoLBDsNRQuw, 
+.P6mrs65_ANUZriH6XkpZmain-nowPlayingView-section, .zboE1ICtt8SJrJQEVHTf, .oCWFPidreAoLBDsNRQuw, .P6mrs65_ANUZriH6XkpZ{
   --lyrics-color-background: black !important;
 }

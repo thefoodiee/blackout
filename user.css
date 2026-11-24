@@ -1,6 +1,6 @@
 /* homescreen top gradient remove */
 
-.main-home-homeHeader, .dqwQhIudKoD98eWJzj5E, ._ddPhxHdxmpT13IbjTmr{
+.main-home-homeHeader, .dqwQhIudKoD98eWJzj5E, ._ddPhxHdxmpT13IbjTmr, .h1AjDPMDbQn9UTUl6owY{
   background-color: black !important;
 }
 
@@ -19,7 +19,7 @@
 
 .main-entityHeader-backgroundColor, .main-actionBarBackground-background, .main-topBar-background,
 .mjZrvVI3CxfHJXu7y0Lg, .fIvMht6B9HdROywMNJZ4, .main-home-filterChipsSection, .kMUtWcOMOZmCWTMAc_gu, .M7ECcaA17LC8UqL2GKVD, .kMaYBahSBLOnErF7DLR2, 
-.P1kwly6O5plr1VQVdOLV, .lxP4FqXzwO7VDFnfmeWX{
+.P1kwly6O5plr1VQVdOLV, .lxP4FqXzwO7VDFnfmeWX, .N6W22Ky7W6I93tr3vrqE, .T2XRKvkWneSSMSOCEo40{
   background-color: black !important;
 }
 
@@ -31,7 +31,8 @@
 
 /* black gradient */
 .XVz4BMGP5zAEE5p90mYK, .main-entityHeader-backgroundColor, .V7ICuEr1ZBtemPGKXeZb, .TmjKsp7ZdmzlG9vtR_94, .xWAGb7rkhYb1eQ8LiDaB, 
-.hbNOZbHD3bPL3OcHQWNn, .GfTKUTxvt__lBLQKmG9m, .venMPE3QitySGonlITLf {
+.hbNOZbHD3bPL3OcHQWNn, .GfTKUTxvt__lBLQKmG9m, .venMPE3QitySGonlITLf, .A0hGajCN2_Y1J_AjxSJh, .playlist-playlist-mixingBackground,
+.SmobrMB2C3IA4ht642Tp, .JAqFwQzhVsvnypqQ62UZ {
   --background-base: black !important;
   --background-base-min-contrast: black !important;
   
@@ -46,7 +47,7 @@
   --color-to: transparent !important;
 }
 
-.Bdcf5g__Rug3TGqSdbiy, .oCSWtOAH_CgjIsi_H_PS, .r8bczAWCEgb9_L0iyIcc{
+.Bdcf5g__Rug3TGqSdbiy, .oCSWtOAH_CgjIsi_H_PS, .r8bczAWCEgb9_L0iyIcc, .rRzDzkFoPB1jsHaUjsDT{
     --background-base-70: black !important;
 }
 
@@ -62,8 +63,9 @@
   --background-base: transparent !important;
 }
 
-.dyVzilsz8HZfD1EOJ_0N, .Zsz_4IzlyaFvu7jBCd06 {
-  min-height: 92vh;
+.dyVzilsz8HZfD1EOJ_0N, .Zsz_4IzlyaFvu7jBCd06, .main-entityHeader-container.GBmEAo_xWY4d00aBehAY,
+.rNhPk8iGmvxkU82dVG3J {
+  min-height: 91vh;
 }
 
 .main-entityHeader-background,
@@ -107,7 +109,8 @@
 /* cinema mode black lyrics background */
 
 .a7Ka5yznvrbSDPk1G36o, .JVoVebPNAPKBLKSlIBXw, .SJ6kQcks6OWaQD8WvlrE, .KQ5SDwOFi3U9EYsWMAag, .hR7iFCa1KGcBbpfaa8W8,
-.WCfsW4a6JVlKYVF34a1A, .H_ZK0udAJjRBHRCERDpw, .Wv3c8nYoOC18zb2yVp2b{
+.WCfsW4a6JVlKYVF34a1A, .H_ZK0udAJjRBHRCERDpw, .Wv3c8nYoOC18zb2yVp2b, .QkWpHgKU0KPSQGTuVpP3, .z4Kedx_nHYLvEGdkMbze,
+.uRE1l8PrWlA8hNCDrLq9{
   --cinema-mode-bg-color-from: black !important;
   --cinema-mode-bg-color-to: black !important;
 }
@@ -152,13 +155,15 @@
   filter: grayscale(1);
 }
 
-.QqprhKqwqIsC3c9SIKOE, .sxMpFt17cJVTesE9u6fX, .AJjP1RzhySWiLWVcLlNA, .uP1rcUSIWCFaOZaoH0ZG, .IfBZ5VdI_2nwDMl4H6Yh {
+.QqprhKqwqIsC3c9SIKOE, .sxMpFt17cJVTesE9u6fX, .AJjP1RzhySWiLWVcLlNA, .uP1rcUSIWCFaOZaoH0ZG, .IfBZ5VdI_2nwDMl4H6Yh, .L6jejehCdPRd1P_eTUP4 {
   background-color: black !important;
 }
 
 .yUjdM2oRRn7kw8tR1rqV, .NknVk8hYvXI6ovbE8Zj0, .YWvtYcp4OVsd4WMPoZOq, .W7gM5Z3fQWOuQAPOitbc, 
 .bqldaBkacR41KxR2Z0jY, .c2d2xLHGB3XjJBWDrlho, 
 .main-nowPlayingView-section, .zboE1ICtt8SJrJQEVHTf, .oCWFPidreAoLBDsNRQuw, 
-.P6mrs65_ANUZriH6XkpZmain-nowPlayingView-section, .zboE1ICtt8SJrJQEVHTf, .oCWFPidreAoLBDsNRQuw, .P6mrs65_ANUZriH6XkpZ{
+.P6mrs65_ANUZriH6XkpZmain-nowPlayingView-section, .zboE1ICtt8SJrJQEVHTf, .oCWFPidreAoLBDsNRQuw, .P6mrs65_ANUZriH6XkpZ, 
+.bm5I7yGVN8NXt6vH9eiC, .EW7K4621fZWOFX6wdnFp, .nL2a9KOrkvOlg4iyuRDL, .DR40wFCkq02MAMDVavbQ,
+.MVSP1_LOd8odRVo7IYgY, .JOteyX0VgM_p5CdNONpc{
   --lyrics-color-background: black !important;
 }
